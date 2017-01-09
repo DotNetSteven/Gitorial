@@ -16,7 +16,7 @@ namespace Gitorial
             //nog commentaar
             //Yannick en David hebben zich ziek gemeld, jammer!
             //nog commentaar
-            //wat?
+            //wat??
         }
     }
 }
